@@ -1,0 +1,15 @@
+C:\Users\manue\Desktop\EducacionIt\Net\Promedio\Promedio\Promedio\bin\Debug\net8.0\Promedio.exe
+C:\Users\manue\Desktop\EducacionIt\Net\Promedio\Promedio\Promedio\bin\Debug\net8.0\Promedio.deps.json
+C:\Users\manue\Desktop\EducacionIt\Net\Promedio\Promedio\Promedio\bin\Debug\net8.0\Promedio.runtimeconfig.json
+C:\Users\manue\Desktop\EducacionIt\Net\Promedio\Promedio\Promedio\bin\Debug\net8.0\Promedio.dll
+C:\Users\manue\Desktop\EducacionIt\Net\Promedio\Promedio\Promedio\bin\Debug\net8.0\Promedio.pdb
+C:\Users\manue\Desktop\EducacionIt\Net\Promedio\Promedio\Promedio\obj\Debug\net8.0\Promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\Desktop\EducacionIt\Net\Promedio\Promedio\Promedio\obj\Debug\net8.0\Promedio.AssemblyInfoInputs.cache
+C:\Users\manue\Desktop\EducacionIt\Net\Promedio\Promedio\Promedio\obj\Debug\net8.0\Promedio.AssemblyInfo.cs
+C:\Users\manue\Desktop\EducacionIt\Net\Promedio\Promedio\Promedio\obj\Debug\net8.0\Promedio.csproj.CoreCompileInputs.cache
+C:\Users\manue\Desktop\EducacionIt\Net\Promedio\Promedio\Promedio\obj\Debug\net8.0\Promedio.sourcelink.json
+C:\Users\manue\Desktop\EducacionIt\Net\Promedio\Promedio\Promedio\obj\Debug\net8.0\Promedio.dll
+C:\Users\manue\Desktop\EducacionIt\Net\Promedio\Promedio\Promedio\obj\Debug\net8.0\refint\Promedio.dll
+C:\Users\manue\Desktop\EducacionIt\Net\Promedio\Promedio\Promedio\obj\Debug\net8.0\Promedio.pdb
+C:\Users\manue\Desktop\EducacionIt\Net\Promedio\Promedio\Promedio\obj\Debug\net8.0\Promedio.genruntimeconfig.cache
+C:\Users\manue\Desktop\EducacionIt\Net\Promedio\Promedio\Promedio\obj\Debug\net8.0\ref\Promedio.dll
